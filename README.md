@@ -1,1 +1,1 @@
-# RabbitMq
+Sending messages between two projects.
